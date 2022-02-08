@@ -8,9 +8,10 @@ namespace FactoryDesign
         {
             PizzaFactory factory = new PizzaFactory();
             PizzaStore store = new PizzaStore(factory);
-            Pizza fajita=    store.OrderPizza("Special");
+            Pizza fajita = store.OrderPizza("Special");
             Console.WriteLine("--------------------------------");
-
+            Console.WriteLine("--------Hellow------------------");
+            Console.WriteLine("--------Hellow------------------");
             Pizza kabab = store.OrderPizza("Kabab");
 
         }
