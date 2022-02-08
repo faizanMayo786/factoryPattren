@@ -13,6 +13,7 @@ namespace FactoryDesign
             Console.WriteLine("--------Hellow------------------");
             Console.WriteLine("--------Hellow------------------");
             Pizza kabab = store.OrderPizza("Kabab");
+            Pizza Fajita = store.OrderPizza("Fajita");
 
         }
     }
