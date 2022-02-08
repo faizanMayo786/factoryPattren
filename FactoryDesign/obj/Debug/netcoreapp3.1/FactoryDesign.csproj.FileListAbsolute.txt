@@ -1,0 +1,14 @@
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\bin\Debug\netcoreapp3.1\FactoryDesign.exe
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\bin\Debug\netcoreapp3.1\FactoryDesign.deps.json
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\bin\Debug\netcoreapp3.1\FactoryDesign.runtimeconfig.json
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\bin\Debug\netcoreapp3.1\FactoryDesign.runtimeconfig.dev.json
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\bin\Debug\netcoreapp3.1\FactoryDesign.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\bin\Debug\netcoreapp3.1\FactoryDesign.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.csproj.AssemblyReference.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.AssemblyInfoInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.AssemblyInfo.cs
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.dll
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.pdb
+C:\Users\Mayo\Desktop\Desktop\OOP\Design Pattrens\FactoryDesign\FactoryDesign\obj\Debug\netcoreapp3.1\FactoryDesign.genruntimeconfig.cache
